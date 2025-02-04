@@ -11,7 +11,7 @@ export default function SignInPage() {
     <AuthWrapper
       title={
         <>
-          Welcome Back! <br /> Sign in with your credentials.
+          Welcome! <br /> Login to continue..
         </>
       }
       isSignIn
